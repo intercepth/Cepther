@@ -1,1 +1,16 @@
-
+{
+  "schema_version": 1,
+  "author": {
+    "name": "Cepther"
+  },
+  "announcements": [
+    {
+      "id": "2026-10-12-welcome",
+      "timestamp": "2026-10-12T12:00:00Z",
+      "title": "Announcements are now in Cepther",
+      "category": "update",
+      "display_popup": true,
+      "body_rich_text": "<p>From now on, important news about Cepther will appear here.</p><ul><li>Each message is shown once</li><li>Every message is kept in <b>Settings, News</b></li></ul>"
+    }
+  ]
+}
